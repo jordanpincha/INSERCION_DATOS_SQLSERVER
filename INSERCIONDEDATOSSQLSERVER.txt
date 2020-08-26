@@ -1,0 +1,18 @@
+insert into VETERINARIO values 
+(1,'panchito','perez','calle 13','0987654321'),
+(2,'JOSE','zamabrano','calle 8','098653254');
+
+insert into CLIENTE values
+(1,'ARMANDO','ZAMORA','TARQUI','098654226'),
+(2,'MARCELA','CEVALLOS','CUBA','098756421'),
+(3,'FERNANDO','MOSQUERA','SANTA MARTHA','0987525745'),
+(4,'SOLEDAD','MARTINEZ','BELLAVISTA','098654254'),
+(5,'JAIME','MOREIRA','CORVOBA','098652335');
+
+
+insert into MASCOTA values
+(1,1,'cafe','golden'),
+(2,1,'negro','doverman'),
+(3,2,'blanco','chihuahua'),
+(4,2,'blanco y negro','dalmata'),
+(5,1,'cafe con blanco','SanBernardo');
